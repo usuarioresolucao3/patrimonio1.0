@@ -301,7 +301,7 @@ public class Tela_Item_Lista extends javax.swing.JPanel {
         );
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        jLabel2.setText("Tela Lista Item  XX");
+        jLabel2.setText("Tela Lista Item  YY");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
