@@ -39,7 +39,7 @@ public class Tela_Usuario_Lista extends javax.swing.JPanel {
         jPanel1.setPreferredSize(new java.awt.Dimension(1022, 104));
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 1, 18)); // NOI18N
-        jLabel2.setText("Lista Usuários XX");
+        jLabel2.setText("Lista Usuários 'Ricardo'");
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
